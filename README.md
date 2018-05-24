@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的医学博客
 
-You can use the [editor on GitHub](https://github.com/hunhun751/hunhun751.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+开通这个博客的初衷是为了督促自己不要犯懒，好好记录自己见到的所有奇奇怪怪的病，记录下各种疾病的诊断思路。
+现在积累的还少，待续。。。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 临床病例记录
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 常见病诊治思路
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 科研世界
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hunhun751/hunhun751.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
